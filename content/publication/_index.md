@@ -9,7 +9,7 @@ title: Publications
 view: 4
 
 # Optional header image (relative to `static/img/` folder).
-header:
+header:Munich to Dubai: How far is it for Semantic Segmentation?, WACV 2020
   caption: ""
   image: ""
 ---
