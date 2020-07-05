@@ -5,7 +5,7 @@ authors:
 - Vineeth N Balasubramanian
 - Anbumani Subramanian
 - C. V. Jawahar
-date: "2013-07-01T00:00:00Z"
+date: "WACV 2020"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
