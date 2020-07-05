@@ -1,12 +1,12 @@
 ---
-title: "Munich-to-Dubai: How far is it for Semantic Segmentation ?"
+title: "Munich-to-Dubai: How far is it for Semantic Segmentation ? (WACV 2020)"
 authors:
 - admin
 - Vineeth N Balasubramanian
 - Anbumani Subramanian
 - C. V. Jawahar
-date: "WACV 2020"
-doi: ""
+#date: "WACV 2020"
+#doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
