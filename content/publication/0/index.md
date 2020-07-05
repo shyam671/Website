@@ -45,7 +45,9 @@ url_project: 'http://cvit.iiit.ac.in/research/projects/cvit-projects/vision-in-a
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'We show the performance of various semantic segmentation methods on a turbulent (hot weather condition) image. Our method clearly outperforms
+DeepLabV3 and Coral-DLV3 (DeepLabV3 trained on CORAL loss). We can notice that our approach removes the noisy segmentation output (can be seen on the
+segmentation output of roads) of Coral-DLV3 giving higher IoU and refined segmentation output.'
   focal_point: ""
   preview_only: false
 
@@ -54,8 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
