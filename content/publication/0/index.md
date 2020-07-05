@@ -5,7 +5,7 @@ authors:
 - Vineeth N Balasubramanian
 - Anbumani Subramanian
 - C. V. Jawahar
-date: ""
+date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,11 +35,11 @@ links:
 url_pdf: http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2020/Munich2Dubai-wacv.pdf
 url_code: 'https://github.com/shyam671/Munich-to-Dubai-How-far-is-it-for-Semantic-Segmentation'
 url_project: 'http://cvit.iiit.ac.in/research/projects/cvit-projects/vision-in-atmospheric-turbulence'
-#url_dataset: '#'
-#url_poster: '#'
-#url_slides: ''
-#url_source: '#'
-#url_video: '#'
+url_dataset: '#'
+url_poster: '#'
+url_slides: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
