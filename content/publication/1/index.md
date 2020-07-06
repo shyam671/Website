@@ -5,7 +5,7 @@ authors:
 - admin
 - Anand Mishra 
 - C. V. Jawahar
-#date: "WACV 2020"
+#date: ""
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
