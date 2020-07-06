@@ -44,7 +44,7 @@ url_dataset: 'http://cvit.iiit.ac.in/images/Projects/cartoonFaces/IIIT-CFW1.0.zi
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'We show the performance of various semantic segmentation methods on a turbulent (hot weather condition) image. Our method clearly outperforms DeepLabV3 and Coral-DLV3 (DeepLabV3 trained on CORAL loss). We can notice that our approach removes the noisy segmentation output (can be seen on the segmentation output of roads) of Coral-DLV3 giving higher IoU and refined segmentation output.'
+  caption: 'Sample faces of the IIIT-CFW'
   focal_point: ""
   preview_only: false
 
