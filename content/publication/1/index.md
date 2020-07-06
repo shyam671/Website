@@ -1,5 +1,5 @@
 ---
-title: "Munich-to-Dubai: How far is it for Semantic Segmentation ? (WACV 2020)"
+title: "IIIT-CFW: A Benchmark Database of Cartoon Faces in the Wild (ECCVW 2016)"
 authors:
 - Ashutosh Mishra
 - admin
@@ -21,11 +21,10 @@ publication_types: ["1"]
 publication: ECCVW 2016
 publication_short: In *STC*
 
-abstract: Cities having hot weather conditions results in geometrical distortion, thereby adversely affecting the performance of semantic segmentation model. In this work, we study the problem of semantic segmentation model in adapting to such hot climate cities. This issue can be circumvented by collecting and annotating images in such weather conditions and training segmentation models on those images. But the task of semantically annotating images for every environment is painstaking and expensive. Hence, we propose a framework that improves the performance of semantic segmentation models without explicitly creating an annotated dataset for such adverse weather variations. Our framework consists of two parts, a restoration network to remove the geometrical distortions caused by hot weather and an adaptive segmentation network that is trained on an additional loss to adapt to the statistics of the ground-truth segmentation map. We train our framework on the Cityscapes dataset, which showed a total IoU gain of 12.707 over standard segmentation models. We also observe that the segmentation results obtained by our framework gave a significant improvement for small classes such as poles, person, and rider, which are essential and valuable for autonomous navigation based applications.
+abstract: The IIIT-CFW is database for the cartoon faces in the wild. It is harvested from Google image search. Query words such as Obama + cartoon, Modi + cartoon, and so on were used to collect cartoon images of 100 public figures. The dataset contains 8928 annotated cartoon faces of famous personalities of the world with varying profession. Additionally, we also provide 1000 real faces of the public figure to study cross modal retrieval tasks, such as, Photo2Cartoon retrieval. The IIIT-CFW can be used for the study spectrum of problems as discussed in our paper.
 
 # Summary. An optional shortened abstract.
-summary:  Cities having hot weather conditions results in geometrical distortion, thereby adversely affecting the performance of semantic segmentation model. In this work, we study the problem of semantic segmentation model in adapting to such hot climate cities.
-
+summary:  The IIIT-CFW is database for the cartoon faces in the wild. It is harvested from Google image search.
 tags:
 - Source Themes
 featured: true
@@ -33,10 +32,10 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2020/Munich2Dubai-wacv.pdf
-url_code: 'https://github.com/shyam671/Munich-to-Dubai-How-far-is-it-for-Semantic-Segmentation'
-url_project: 'http://cvit.iiit.ac.in/research/projects/cvit-projects/vision-in-atmospheric-turbulence'
-#url_dataset: '#'
+url_pdf: http://cvit.iiit.ac.in/images/ConferencePapers/2016/Mishra-ECCVW2016.pdf
+#url_code: 'https://github.com/shyam671/Munich-to-Dubai-How-far-is-it-for-Semantic-Segmentation'
+url_project: 'http://cvit.iiit.ac.in/research/projects/cvit-projects/cartoonfaces'
+url_dataset: 'http://cvit.iiit.ac.in/images/Projects/cartoonFaces/IIIT-CFW1.0.zip'
 #url_poster: '#'
 #url_slides: ''
 #url_source: '#'
