@@ -5,7 +5,7 @@ tags:
 - Computer Vision
 date: ""
 
-# Optional external URL for project (replaces project detail page).
+# Optional external URL for project (replaces project detail page)
 external_link: "https://github.com/shyam671/Laplacian-Pyramid-Reconstruction-and-Refinement-for-Semantic-Segmentation"
 
 image:
