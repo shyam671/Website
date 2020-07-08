@@ -34,12 +34,12 @@ subtitle = ""
      tag = "Cognitive Science"
   
   [[content.filter_button]]
-     name = "NLP"
-     tag = "NLP"     
+     name = "Natural Language Processing"
+     tag = "Natural Language Processing"     
 
   [[content.filter_button]]
-     name = "GAN"
-     tag = "GAN"
+     name = "Generative Modeling"
+     tag = "Generative Modeling"
      
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
