@@ -5,7 +5,7 @@ tags:
 - Cognitive Science
 date: ""
 
-# Optional external URL for project (replaces project detail page)
+# Optional external URL for project (replaces project detail page).
 external_link: "https://docs.google.com/presentation/d/1tou6xwGVH6Va4TIBom4ufkPTc-xXmhdR3pezi9bAXcs/edit?usp=sharing"
 
 image:
