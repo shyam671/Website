@@ -32,7 +32,15 @@ subtitle = ""
   [[content.filter_button]]
      name = "Cognitive Science"
      tag = "Cognitive Science"
+  
+  [[content.filter_button]]
+     name = "NLP"
+     tag = "NLP"     
 
+  [[content.filter_button]]
+     name = "GAN"
+     tag = "GAN"
+     
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
