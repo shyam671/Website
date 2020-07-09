@@ -1,5 +1,5 @@
 ---
-title: Relationship between Music & Personality
+title: Reading Comprehension
 summary: Posed reading comprehension as a sentence classification task. Instead of sequential models, we used CNN models for classification and extended to a siamese variation using contrastive loss.
 tags:
 - Natural Language Processing
