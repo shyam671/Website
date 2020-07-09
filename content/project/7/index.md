@@ -1,5 +1,5 @@
 ---
-title: Image Quality Assessment
+title: Multi Agent Diverse Generative Adversarial Networks
 summary: Implementation of MAD-GAN which addresses the problem of mode collapse.
 tags:
 - Generative Modeling
