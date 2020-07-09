@@ -1,6 +1,6 @@
 ---
 title: Image Quality Assessment
-summary: Method for designing high level features forphoto quality assessment.
+summary: Method for designing high level features for photo quality assessment.
 tags:
 - Computer Vision
 date: ""
