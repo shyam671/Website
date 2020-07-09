@@ -28,11 +28,11 @@ interests:
 
 education:
   courses:
-  - course: MS by Research
-    institution: CVIT, IIIT-Hyderabad
+  - course: M.S. (Research) in Computer Science
+    institution: CVIT, International Institute of Information Technology, Hyderabad
     year: 2020
-  - course: B.Tech(Hons) in ECE
-    institution: IIIT-Sricity
+  - course: B.Tech (Hons.) in Electronics and Communication Engineering
+    institution: Indian Institute of Information Technology, Sri City
     year: 2017
 
 # Social/Academic Networking
