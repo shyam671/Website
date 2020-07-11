@@ -21,22 +21,23 @@ date_format = "Jan 2006"
   title = "AI/ML mentor"
   company = "MLL Lab-IIITH|Talentsprint"
   company_url = ""
-  location = "Hyderabad"
+  location = "Hyderabad, India"
   date_start = "2017-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
   * Mentoring of industrial professionals during the lab sessions on the concepts of machine learning & deep learning.
   """
 
 [[experience]]
   title = "Computer Vision Intern"
-  company = "RTC, Robert Bosch, Bangalore, India"
+  company = "RTC, Robert Bosch"
   company_url = ""
-  location = "California"
+  location = "Bangalore, India"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  * Benchmarking of person detection and tracking algorithm.
+  * Implementation of improved KLT tracker on PNNL Parking Lot and Pizza sequences."""
 
 +++
 
