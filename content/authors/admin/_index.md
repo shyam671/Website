@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a MS student at IIIT-H working on Computer Vision & Machine Learning. At IIIT-H, I work at Centre for Visual Information Technology as Research Assistant under guidence of Prof. C. V. Jawahar . Presently, I am exploring area of Genrative models(GANs) and trying to incorporate its capabilities into computer vision tasks.
+Hi!! I am Shyam Nandan Rai, currently pursuing my masters at CVIT, IIITH. I work under the joint supervision of [Prof. C.V. Jawahar](https://faculty.iiit.ac.in/~jawahar/index.html), Prof. Vineeth N Balasubramanian, and Dr. Anbumani Subramanian on the problems of image restoration in adverse weather conditions. Previously, I was an undergrad honors student at IIIT, Sricity where I worked on the problems related to Cartoon Image Understanding in collaboration with Prof C.V. Jawahar and Prof. Anand Mishra. My current research interest specifically lies in GANs, Semantic Segmentation, and problems related to the imbalance in large-scale datasets.
