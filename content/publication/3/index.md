@@ -45,7 +45,7 @@ url_project: 'http://cvit.iiit.ac.in/research/projects/cvit-projects/vision-in-a
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'bla'
   focal_point: ""
   preview_only: false
 
