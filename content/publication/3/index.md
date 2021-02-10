@@ -21,7 +21,7 @@ publication_types: ["1"]
 publication: BMVC 2020
 publication_short: In *STC*
 
-abstract: 
+abstract: High-temperature weather conditions induce geometrical distortions in images which can adversely affect the performance of a computer vision model performing downstream tasks such as semantic segmentation. 
 # Summary. An optional shortened abstract.
 summary:  
 tags:
