@@ -32,8 +32,8 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2020/Munich2Dubai-wacv.pdf
-url_code: 'https://github.com/shyam671/Munich-to-Dubai-How-far-is-it-for-Semantic-Segmentation'
+url_pdf: https://www.bmvc2020-conference.com/assets/papers/0742.pdf
+url_code: 'https://github.com/shyam671/Spatial-Feedback-Learning-to-ImproveSemantic-Segmentation-in-Hot-Weather'
 url_project: 'http://cvit.iiit.ac.in/research/projects/cvit-projects/vision-in-atmospheric-turbulence'
 #url_dataset: '#'
 #url_poster: '#'
