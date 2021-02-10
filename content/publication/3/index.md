@@ -1,11 +1,11 @@
 ---
-title: "Munich-to-Dubai: How far is it for Semantic Segmentation ? (WACV 2020)"
+title: "Spatial Feedback Learning to Improve Semantic Segmentation in Hot Weather (BMVC 2020)"
 authors:
 - admin
 - Vineeth N Balasubramanian
 - Anbumani Subramanian
 - C. V. Jawahar
-#date: "WACV 2020"
+#date: "BMVC 2020"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
