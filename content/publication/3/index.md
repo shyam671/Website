@@ -23,8 +23,7 @@ publication_short: In *STC*
 
 abstract: High
 # Summary. An optional shortened abstract.
-summary:  Cities having hot weather conditions results in geometrical distortion, thereby adversely affecting the performance of semantic segmentation model. In this work, we study the problem of semantic segmentation model in adapting to such hot climate cities.
-
+summary:  
 tags:
 - Source Themes
 featured: true
@@ -44,7 +43,7 @@ url_project: 'http://cvit.iiit.ac.in/research/projects/cvit-projects/vision-in-a
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'We show the performance of various semantic segmentation methods on a turbulent (hot weather condition) image. Our method clearly outperforms DeepLabV3 and Coral-DLV3 (DeepLabV3 trained on CORAL loss). We can notice that our approach removes the noisy segmentation output (can be seen on the segmentation output of roads) of Coral-DLV3 giving higher IoU and refined segmentation output.'
+  caption: ''
   focal_point: ""
   preview_only: false
 
