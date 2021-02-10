@@ -1,11 +1,11 @@
 ---
-title: "Spatial Feedback Learning to Improve Semantic Segmentation in Hot Weather (BMVC 2020)"
+title: "Munich-to-Dubai: How far is it for Semantic Segmentation ? (WACV 2020)"
 authors:
 - admin
 - Vineeth N Balasubramanian
 - Anbumani Subramanian
 - C. V. Jawahar
-#date: "BMVC 2020"
+#date: "WACV 2020"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,10 +18,10 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: BMVC 2020
+publication: WACV 2020
 publication_short: In *STC*
 
-abstract: High-temperature weather conditions induce geometrical distortions in images which can adversely affect the performance of a computer vision model performing downstream tasks such as semantic segmentation. The performance of such models has been shown to improve by adding a restoration network before a semantic segmentation network. The restoration network removes the geometrical distortions from the images and shows improved segmentation results. However, this approach suffers from a major architectural drawback that is the restoration network does not learn directly from the errors of the segmentation network. In other words, the restoration network is not task aware. In this work, we propose a semantic feedback learning approach, which improves the task of semantic segmentation giving a feedback response into the restoration network. This response works as an attend and fix mechanism by focusing on those areas of an image where restoration needs improvement. Also, we proposed loss functions: Iterative Focal Loss (iFL) and Class-Balanced Iterative Focal Loss (CB-iFL), which are specifically designed to improve the performance of the feedback network. These losses focus more on those samples that are continuously miss-classified over successive iterations. Our approach gives a gain of 17.41 mIoU over the standard segmentation model, including the additional gain of 1.9 mIoU with CB-iFL on the Cityscapes dataset.
+abstract: Cities having hot weather conditions results in geometrical distortion, thereby adversely affecting the performance of semantic segmentation model. In this work, we study the problem of semantic segmentation model in adapting to such hot climate cities. This issue can be circumvented by collecting and annotating images in such weather conditions and training segmentation models on those images. But the task of semantically annotating images for every environment is painstaking and expensive. Hence, we propose a framework that improves the performance of semantic segmentation models without explicitly creating an annotated dataset for such adverse weather variations. Our framework consists of two parts, a restoration network to remove the geometrical distortions caused by hot weather and an adaptive segmentation network that is trained on an additional loss to adapt to the statistics of the ground-truth segmentation map. We train our framework on the Cityscapes dataset, which showed a total IoU gain of 12.707 over standard segmentation models. We also observe that the segmentation results obtained by our framework gave a significant improvement for small classes such as poles, person, and rider, which are essential and valuable for autonomous navigation based applications.
 
 # Summary. An optional shortened abstract.
 summary:  Cities having hot weather conditions results in geometrical distortion, thereby adversely affecting the performance of semantic segmentation model. In this work, we study the problem of semantic segmentation model in adapting to such hot climate cities.
@@ -33,8 +33,8 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://www.bmvc2020-conference.com/assets/papers/0742.pdf
-url_code: 'https://github.com/shyam671/Spatial-Feedback-Learning-to-ImproveSemantic-Segmentation-in-Hot-Weather'
+url_pdf: http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2020/Munich2Dubai-wacv.pdf
+url_code: 'https://github.com/shyam671/Munich-to-Dubai-How-far-is-it-for-Semantic-Segmentation'
 url_project: 'http://cvit.iiit.ac.in/research/projects/cvit-projects/vision-in-atmospheric-turbulence'
 #url_dataset: '#'
 #url_poster: '#'
@@ -45,7 +45,7 @@ url_project: 'http://cvit.iiit.ac.in/research/projects/cvit-projects/vision-in-a
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'bla'
+  caption: 'We show the performance of various semantic segmentation methods on a turbulent (hot weather condition) image. Our method clearly outperforms DeepLabV3 and Coral-DLV3 (DeepLabV3 trained on CORAL loss). We can notice that our approach removes the noisy segmentation output (can be seen on the segmentation output of roads) of Coral-DLV3 giving higher IoU and refined segmentation output.'
   focal_point: ""
   preview_only: false
 
