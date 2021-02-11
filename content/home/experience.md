@@ -25,7 +25,6 @@ date_format = "Jan 2006"
   date_start = "2017-10-01"
   date_end = ""
   description = """
-  * Mentoring of industrial professionals during the lab sessions on the concepts of machine learning & deep learning.
   """
 
 [[experience]]
@@ -36,8 +35,7 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
   description = """
-  * Benchmarking of person detection and tracking algorithm.
-  * Implementation of improved KLT tracker on PNNL Parking Lot and Pizza sequences."""
+  """
 
 +++
 
