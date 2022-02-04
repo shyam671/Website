@@ -10,24 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: MS by Research in CV/ML
+role: PhD in Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: CVIT, IIIT-Hyderabad
-  url: "http://cvit.iiit.ac.in/"
+- name: VANDAL, Politecnico di Torino, Italy
+  url: "http://vandal.polito.it"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Computer Vision
-- Machine Learning
+- Semantic Segmentation
+- Open World Segmentation 
 - Image Restoration
 - Generative Adverserial Network
 
 education:
   courses:
+  - course: PhD in Artificial Intelligence
+    institution: VANDAL, Politecnico di Torino, Italy
+    year: 2021
   - course: M.S. (Research) in Computer Science
     institution: CVIT, International Institute of Information Technology, Hyderabad
     year: 2020
