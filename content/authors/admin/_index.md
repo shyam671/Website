@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: VANDAL, Politecnico di Torino, Italy
-    year: 2021
+    year: 
   - course: M.S. (Research) in Computer Science
     institution: CVIT, International Institute of Information Technology, Hyderabad
     year: 2020
@@ -62,7 +62,7 @@ social:
 #   link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "shyam.nandan@research.iiit.ac.in"
+email: "shyamnandan.rai@studenti.polito.it"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
