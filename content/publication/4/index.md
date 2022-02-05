@@ -1,11 +1,15 @@
 ---
-title: "ORDER: Open World Object Detection on Road Scenes (NurIPS 2021)"
+title: "ORDER: Open World Object Detection on Road Scenes (NurIPSw 2021)"
 authors:
-- admin*
+- Shyam Nandan Rai*
 - Deepak Kumar Singh*
+- K J Joseph
+- Rohit Saluja
+- Vineeth N Balasubramanian
+- Chetan Arora
 - Anbumani Subramanian
 - C. V. Jawahar
-#date: "BMVC 2020"
+#date: "NurIPSw 2021"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,10 +22,10 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: BMVC 2020
+publication: NurIPSw 2020
 publication_short: In *STC*
 
-abstract: High-temperature weather conditions induce geometrical distortions in images which can adversely affect the performance of a computer vision model performing downstream tasks such as semantic segmentation.  The performance of such models has been shown to improve by adding a restoration network before a semantic segmentation network. The restoration network removes the geometrical distortions from the images and shows improved segmentation results. However, this approach suffers from a major architectural drawback that is the restoration network does not learn directly from the errors of the segmentation network. In other words, the restoration network is not task aware. In this work, we propose a semantic feedback learning approach, which improves the task of semantic segmentation giving a feedback response into the restoration network. This response works as an attend and fix mechanism by focusing on those areas of an image where restoration needs improvement.
+abstract: Object detection is a key component in autonomous navigation systems that enables localization and classification of the objects in a road scene. Existing object detection methods are trained and inferred on a fixed number of known classes present in road scenes. However, in real-world or open-world road scenes, while inference, we come across unknown objects that the detection model hasn’t seen while training. Hence, we propose Open World Object Detection on Road Scenes (ORDER) to address the aforementioned problem for road scenes. Firstly, we introduce Feature-Mix to improve the unknown object detection capabilities of an object detector. Feature-Mix widens the gap between known and unknown classes in latent feature space that helps improve the unknown object detection. Next, we identify that the road scene dataset compared to generic object dataset contains a significant proportion of small objects and has higher intra-class bounding box scale variations, making it challenging to detect the known and unknown objects. We propose a novel loss: Focal regression loss that collectively addresses the problem of small object detection and intra-class bounding box by penalizing more the small bounding boxes and dynamically changing the loss according to object size. Further, the detection of small objects is improved by curriculum learning. Finally, we present an extensive evaluation on two road scene datasets: BDD and IDD. Our experimental evaluations on BDD and IDD shows consistent improvement over the current state-of-the-art method. We believe that this work will lay the foundation for real-world object detection for road scenes.
 # Summary. An optional shortened abstract.
 summary:  
 tags:
@@ -31,7 +35,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://www.bmvc2020-conference.com/assets/papers/0742.pdf
+url_pdf: https://ml4ad.github.io/files/papers2021/ORDER:%20Open%20World%20Object%20Detection%20on%20Road%20Scenes.pdf
 #url_code: 'https://github.com/shyam671/Spatial-Feedback-Learning-to-ImproveSemantic-Segmentation-in-Hot-Weather'
 #url_project: ''
 #url_dataset: '#'
