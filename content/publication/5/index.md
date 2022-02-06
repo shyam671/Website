@@ -1,5 +1,5 @@
 ---
-title: "ORDER: Open World Object Detection on Road Scenes (NurIPSw 2021)"
+title: "FLUID: Few-Shot Self-Supervised Image Deraining (WACV 2022)"
 authors:
 - Shyam Nandan Rai*
 - Rohit Saluja
@@ -23,7 +23,7 @@ publication_types: ["1"]
 publication: WACV 2022
 publication_short: In *STC*
 
-abstract: Object detection is a key component in autonomous navigation systems that enables localization and classification of the objects in a road scene. Existing object detection methods are trained and inferred on a fixed number of known classes present in road scenes. However, in real-world or open-world road scenes, while inference, we come across unknown objects that the detection model hasn’t seen while training. Hence, we propose Open World Object Detection on Road Scenes (ORDER) to address the aforementioned problem for road scenes. 
+abstract: Self-supervised methods have shown promising results in denoising and dehazing tasks, where the collection of the paired dataset is challenging and expensive. However, we find that these methods fail to remove the rain streaks when applied for image deraining tasks. The method's poor performance is due to its neighbours. The rainy pixels are non-uniformaly distributed, and it is not necessarily dependent on its neighboring pixels. Hence, we conclude that the self-supervised method needs to have some prior knowledge about rain distribution to perform the deraining task. To provide this knowledge, we hypothesize a network with minimal supervision to estimate the likelihood of rainy pixels. This leads us to our proposed method called FLUID (Few Shot Self-Supervised Image Deraining).
 # Summary. An optional shortened abstract.
 summary:  
 tags:
