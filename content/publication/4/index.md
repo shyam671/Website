@@ -22,8 +22,8 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: NurIPSw 2020
-publication_short: In *STC*
+#publication: NurIPSw 2020
+#publication_short: In *STC*
 
 abstract: Object detection is a key component in autonomous navigation systems that enables localization and classification of the objects in a road scene. Existing object detection methods are trained and inferred on a fixed number of known classes present in road scenes. However, in real-world or open-world road scenes, while inference, we come across unknown objects that the detection model hasn’t seen while training. Hence, we propose Open World Object Detection on Road Scenes (ORDER) to address the aforementioned problem for road scenes. 
 # Summary. An optional shortened abstract.
