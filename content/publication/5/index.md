@@ -1,5 +1,5 @@
 ---
-title: "FLUID: Few-Shot Self-Supervised Image Deraining (WACV 2022)"
+title: "FLUID: Few-Shot Self-Supervised Image Deraining (WACV)"
 authors:
 - Shyam Nandan Rai*
 - Rohit Saluja
@@ -7,7 +7,7 @@ authors:
 - Chetan Arora
 - Anbumani Subramanian
 - C. V. Jawahar
-date: "WACV 2022"
+date: "2022"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ date: "WACV 2022"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: WACV 2022
+#publication: WACV 2022
 #publication_short: In *STC*
 
 abstract: Self-supervised methods have shown promising results in denoising and dehazing tasks, where the collection of the paired dataset is challenging and expensive. However, we find that these methods fail to remove the rain streaks when applied for image deraining tasks. The method's poor performance is due to its neighbours. The rainy pixels are non-uniformaly distributed, and it is not necessarily dependent on its neighboring pixels. Hence, we conclude that the self-supervised method needs to have some prior knowledge about rain distribution to perform the deraining task. To provide this knowledge, we hypothesize a network with minimal supervision to estimate the likelihood of rainy pixels. This leads us to our proposed method called FLUID (Few Shot Self-Supervised Image Deraining).
