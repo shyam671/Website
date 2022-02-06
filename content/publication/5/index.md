@@ -1,5 +1,5 @@
 ---
-title: "FLUID: Few-Shot Self-Supervised Image Deraining (WACV)"
+title: "FLUID: Few-Shot Self-Supervised Image Deraining (WACV 2022)"
 authors:
 - Shyam Nandan Rai*
 - Rohit Saluja
@@ -7,7 +7,7 @@ authors:
 - Chetan Arora
 - Anbumani Subramanian
 - C. V. Jawahar
-date: "2022"
+#date: "2022"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
