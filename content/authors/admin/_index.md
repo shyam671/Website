@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:shyam.nandan@research.iiit.ac.in'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:shyamnandan.rai@studenti.polito.it'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=cKWXiTgAAAAJ&hl=en&scilu=&scisig=AMD79ooAAAAAXwC2H_RIL1uvU67tCvI3HDwqDUglyiNm&gmla=AJsN-F7JctFIA41LPINvCqKyk1GEClN1pqQiHz-wx-xrBpjDq4s-cOlbXq00RhjMJS2STxPunBJCcEhDJ1PIdtrzI8gZR-p7-XIWf2NQjQTH6YfJ2Jj0FIc&sciund=16282882575543874820&scilu=&scisig=AMD79ooAAAAAXwC2JxqandyEoOT5e3K8P47FJaBWf9QM&gmla=AJsN-F5-HMp_CNPDhCkC0YLHkf4nd21LMXJ_vZdM1f8VIdV-c0ps-AXixg8UNjjkUGosrlQvmzT4tq4yAkAPWrrb1TdTn2u5dqhQXiBRG8LawoNDgkVNNgM&sciund=12446050177988319893
